@@ -1,4 +1,5 @@
 import requests
-target=()
+target=input()
 while True:
-    r=rquests
+    r=rquests.get(target)
+    print(r.status_code)
