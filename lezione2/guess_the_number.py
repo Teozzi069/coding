@@ -1,5 +1,6 @@
 import random
 n=random.randint(1,100)
+tentativi=
 tentativi=tentativi+1
 win=False
 while not win:
